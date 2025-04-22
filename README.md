@@ -13,4 +13,7 @@ Gives information on arrests that have happened in Pittsburgh. This gives the ty
 Food Facility/Restaurant Inspections: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/4ea730d8-2bf9-4783-b0a5-b41ed687097e
 Provides the violations that facilities in Pittsburgh have had on food. It has whether a restaurant passed inspection and how many reinspections it has had.
 
+Geographic Data: https://data.wprdc.org/dataset/neighborhoods2
+Used mostly for the position of neighborhoods and graphing some of the maps.
+
 This repository is an analysis of how safe the different neigborhoods of Pittsburgh are and which one is the safest in terms of least fires, least crime, and least food violations.
